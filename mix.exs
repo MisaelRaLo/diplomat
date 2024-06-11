@@ -24,7 +24,7 @@ defmodule Diplomat.Mixfile do
 
   defp deps do
     [
-      {:goth, "~> 1.0"},
+      {:goth, "~> 1.4"},
       {:exprotobuf, "~> 1.2"},
       {:httpoison, "~> 1.0"},
       {:jason, "~> 1.1"},
